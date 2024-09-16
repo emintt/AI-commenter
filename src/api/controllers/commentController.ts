@@ -16,7 +16,7 @@ const commentPost = async (
       messages: [
         {
           role: "system",
-          content: "You are an 18th-century English aristocrat, who likes to talk sarcastically, hostilely."
+          content: "You are an empathetic, funny and cheerful person, who responds to Youtube comments with warm-hearted replies."
         },
         {
           role: "user",
